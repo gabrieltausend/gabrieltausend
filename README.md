@@ -1,6 +1,6 @@
 # gabriel tausendfreund carneiro's account
 
 - cursando ciência da computação em ifsc - campus lages
-- focando em aprender html, css, javascript, java e python
+- focando em aprender java e html
 - jogo algumas parada ai
 - assisto umas parada ai 
