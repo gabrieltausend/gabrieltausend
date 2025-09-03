@@ -1,6 +1,6 @@
-# gabriel tausendfreund carneiro's account
+# Gabriel Tausendfreund Carneiro's account
 
-- cursando ciência da computação em ifsc - campus lages
-- focando em aprender java e html
-- jogo algumas parada ai
-- assisto umas parada ai 
+- Cursando Ciência da Computação no IFSC
+- Focando em desenvolvimento web e Java
+- Jogando video-games
+- Assistindo séries e filmes
